@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Revenue,Customer_Name,Payment_Method,Delivery_Status,Discount,Profit
+ORD0001,13-02-2024,South,Beauty,Shampoo,10,856.85,8568.5,Sara Ali,Debit Card,Delivered,2074.91,1531.61
+ORD0002,07-07-2024,East,Grocery,Cooking Oil,7,1736.75,12157.25,Jane Smith,Net Banking,Cancelled,1804.36,2773.35
+ORD0003,01-06-2024,South,Home & Kitchen,Lamp,2,118.82,237.64,Michael Lee,Net Banking,Delivered,32.26,39.57
+ORD0004,25-06-2024,West,Home & Kitchen,Mixer,7,694.95,4864.65,David Brown,Net Banking,Cancelled,1339.77,482.84
+ORD0005,30-03-2024,West,Toys,Board Game,10,135.24,1352.4,Ravi Verma,Net Banking,In Transit,312.43,218.73
+ORD0006,17-04-2024,West,Home & Kitchen,Mixer,3,1607.34,4822.02,Michael Lee,UPI,Cancelled,957.96,1097
+ORD0007,02-04-2024,South,Toys,Puzzle,1,797.52,797.52,Neha Gupta,Cash on Delivery,In Transit,54.11,169.54
+ORD0008,25-01-2024,South,Clothing,T-Shirt,10,761.27,7612.7,Amit Kumar,Credit Card,Returned,1528.9,874.4
+ORD0009,03-06-2024,South,Grocery,Wheat Flour,5,1506.09,7530.45,Ravi Verma,Cash on Delivery,Returned,1865.65,1502.64
+ORD0010,25-06-2024,North,Books,Magazine,6,318.71,1912.26,Amit Kumar,UPI,In Transit,159.53,437.43
+ORD0011,15-06-2024,East,Sports,Yoga Mat,1,162.6,162.6,David Brown,Credit Card,Delivered,10.34,42.84
+ORD0012,30-01-2024,East,Electronics,Smartwatch,4,1095.12,4380.48,Priya Sharma,UPI,Cancelled,509.74,889.42
+ORD0013,05-04-2024,West,Home & Kitchen,Mixer,2,721.92,1443.84,Ravi Verma,Credit Card,Delivered,412.47,266.04
+ORD0014,18-04-2024,North,Books,Magazine,6,853.78,5122.68,Emily Johnson,Debit Card,Cancelled,997.44,469.01
+ORD0015,08-05-2024,North,Toys,Board Game,6,1127.29,6763.74,Jane Smith,Credit Card,Delivered,1858.72,727.28
+ORD0016,11-01-2024,East,Electronics,Smartwatch,1,485.24,485.24,Neha Gupta,Cash on Delivery,Cancelled,78.37,108.66
+ORD0017,13-07-2024,North,Toys,Action Figure,10,1177.17,11771.7,John Doe,Cash on Delivery,Cancelled,3417.31,1204.63
+ORD0018,27-05-2024,South,Clothing,Jeans,9,1625.29,14627.61,David Brown,Net Banking,Cancelled,1169.59,3467.7
+ORD0019,17-05-2024,North,Electronics,Smartwatch,1,962.86,962.86,Jane Smith,Credit Card,In Transit,259.37,94.36
+ORD0020,19-06-2024,West,Clothing,Jeans,7,1215.57,8508.99,John Doe,UPI,Returned,318.97,938.58
+ORD0021,01-03-2024,North,Beauty,Foundation,3,204.76,614.28,Priya Sharma,Debit Card,Returned,89.8,62.37
+ORD0022,11-01-2024,North,Beauty,Face Cream,8,1356.98,10855.84,Sara Ali,Net Banking,Returned,225.13,1489.28
+ORD0023,17-02-2024,West,Beauty,Lipstick,6,720.33,4321.98,John Doe,Debit Card,Cancelled,616.36,391.52
+ORD0024,05-04-2024,South,Toys,Action Figure,9,1025.6,9230.4,Ravi Verma,Debit Card,Delivered,196.32,1386
+ORD0025,27-03-2024,South,Clothing,Jacket,2,1368.23,2736.46,David Brown,Credit Card,Delivered,233.8,425.59
+ORD0026,12-06-2024,West,Toys,Doll,9,1549.29,13943.61,Michael Lee,Credit Card,Returned,446.69,2237.01
+ORD0027,22-04-2024,South,Beauty,Shampoo,9,867.63,7808.67,Jane Smith,Cash on Delivery,Delivered,258.85,1734.87
+ORD0028,29-02-2024,North,Books,Magazine,7,1290.37,9032.59,Neha Gupta,Cash on Delivery,In Transit,1750.96,1100.18
+ORD0029,09-05-2024,East,Grocery,Spices,9,836.61,7529.49,Ravi Verma,Cash on Delivery,Cancelled,1010.09,1080.07
+ORD0030,28-03-2024,South,Sports,Yoga Mat,3,1935.76,5807.28,Amit Kumar,Credit Card,Cancelled,331.41,1353.68
+ORD0031,05-03-2024,North,Toys,Board Game,5,312.25,1561.25,Jane Smith,Net Banking,In Transit,55.94,337.67
+ORD0032,01-07-2024,East,Electronics,Smartwatch,6,1683.32,10099.92,Sara Ali,UPI,Cancelled,2983.76,1388.5
+ORD0033,28-05-2024,North,Toys,Puzzle,10,1416.67,14166.7,Sara Ali,UPI,Returned,237.18,3577.81
+ORD0034,10-05-2024,South,Books,Novel,7,1444.87,10114.09,John Doe,Debit Card,Delivered,920.99,1450.65
+ORD0035,17-05-2024,West,Toys,Puzzle,7,1279,8953,John Doe,Debit Card,Cancelled,1291.34,1403.59
+ORD0036,09-01-2024,West,Sports,Yoga Mat,1,760.89,760.89,David Brown,Credit Card,Returned,110.4,188.69
+ORD0037,04-06-2024,West,Home & Kitchen,Vacuum Cleaner,6,1161.84,6971.04,Ravi Verma,Debit Card,Delivered,211.47,1301.09
+ORD0038,07-03-2024,West,Sports,Tennis Racket,5,697.07,3485.35,Amit Kumar,Debit Card,Returned,188.04,560.2
+ORD0039,03-04-2024,North,Clothing,Dress,7,598.91,4192.37,Ravi Verma,Cash on Delivery,Cancelled,435.78,1126.86
+ORD0040,15-05-2024,East,Home & Kitchen,Vacuum Cleaner,8,1555.93,12447.44,David Brown,Net Banking,Returned,2541.5,2287.93
+ORD0041,04-07-2024,South,Electronics,Headphones,3,1633.97,4901.91,Michael Lee,Credit Card,Cancelled,1438.68,351.78
+ORD0042,03-05-2024,West,Sports,Football,8,1929.11,15432.88,Neha Gupta,Credit Card,Returned,2385.89,3299.18
+ORD0043,13-04-2024,East,Home & Kitchen,Lamp,10,999.87,9998.7,Jane Smith,Credit Card,In Transit,452.98,2074.39
+ORD0044,23-06-2024,North,Home & Kitchen,Cookware Set,3,1558.39,4675.17,John Doe,Credit Card,In Transit,358.94,675.97
+ORD0045,23-02-2024,North,Toys,Action Figure,4,215.59,862.36,Sara Ali,Cash on Delivery,Returned,51.57,182.01
+ORD0046,22-01-2024,East,Electronics,Smartwatch,4,1728.4,6913.6,Neha Gupta,Debit Card,Returned,1810.15,1236
+ORD0047,25-03-2024,West,Clothing,Jeans,8,1958.08,15664.64,John Doe,Cash on Delivery,Delivered,418.84,3150.49
+ORD0048,03-02-2024,East,Toys,Action Figure,4,260.3,1041.2,Amit Kumar,Debit Card,Delivered,235.41,145.25
+ORD0049,03-01-2024,West,Toys,Puzzle,7,1728.32,12098.24,Michael Lee,Cash on Delivery,In Transit,528.27,2243.65
+ORD0050,05-01-2024,North,Home & Kitchen,Mixer,8,1346.09,10768.72,Sara Ali,UPI,Returned,2607.6,2148.89
+ORD0051,02-05-2024,North,Electronics,Laptop,8,543.81,4350.48,Amit Kumar,Credit Card,In Transit,678.05,592.02
+ORD0052,09-06-2024,South,Home & Kitchen,Lamp,9,1311.96,11807.64,John Doe,Credit Card,Delivered,2004.99,2565.14
+ORD0053,04-04-2024,South,Toys,Board Game,3,1154.91,3464.73,John Doe,Credit Card,Returned,225.35,415.97
+ORD0054,17-02-2024,East,Toys,Doll,4,336.66,1346.64,Priya Sharma,Net Banking,Cancelled,152.61,126.08
+ORD0055,04-04-2024,West,Clothing,T-Shirt,3,1421.13,4263.39,Neha Gupta,Credit Card,In Transit,109.98,588.16
+ORD0056,19-01-2024,East,Home & Kitchen,Mixer,10,1332.59,13325.9,John Doe,Cash on Delivery,In Transit,2514.01,1216.72
+ORD0057,08-06-2024,West,Books,Magazine,1,1311.23,1311.23,Sara Ali,Credit Card,Delivered,380.13,149.44
+ORD0058,26-02-2024,West,Toys,Board Game,1,1478.99,1478.99,Michael Lee,UPI,Cancelled,413.26,138.45
+ORD0059,04-02-2024,West,Clothing,Dress,10,376.98,3769.8,Jane Smith,UPI,Delivered,668.24,732.06
+ORD0060,15-05-2024,North,Clothing,Dress,1,875.99,875.99,Jane Smith,Net Banking,Returned,212.8,177.65
+ORD0061,07-02-2024,South,Beauty,Shampoo,3,1631.66,4894.98,Ravi Verma,UPI,In Transit,212.91,696.93
+ORD0062,12-01-2024,South,Clothing,T-Shirt,2,362.93,725.86,Ravi Verma,Net Banking,Delivered,137.48,134.1
+ORD0063,03-02-2024,East,Beauty,Shampoo,10,1243.96,12439.6,John Doe,Debit Card,In Transit,1624.92,1679.19
+ORD0064,07-04-2024,North,Grocery,Spices,5,108.29,541.45,Emily Johnson,Net Banking,Cancelled,159.52,46.9
+ORD0065,14-04-2024,North,Home & Kitchen,Mixer,6,1176.18,7057.08,Jane Smith,Debit Card,Delivered,821.91,659.86
+ORD0066,05-04-2024,East,Clothing,T-Shirt,4,1292.79,5171.16,Jane Smith,Net Banking,Cancelled,485.72,711.34
+ORD0067,24-03-2024,North,Home & Kitchen,Mixer,7,1780.82,12465.74,Jane Smith,Net Banking,Returned,1577.36,3120.07
+ORD0068,19-01-2024,North,Clothing,Dress,9,1919.57,17276.13,Neha Gupta,Net Banking,Delivered,1400.83,2616.08
+ORD0069,06-05-2024,North,Books,Magazine,5,127.14,635.7,Ravi Verma,Cash on Delivery,Returned,55.05,129.92
+ORD0070,28-02-2024,North,Toys,Board Game,4,240.44,961.76,Michael Lee,Cash on Delivery,Cancelled,237.59,202.96
+ORD0071,02-04-2024,East,Toys,Board Game,6,1048.56,6291.36,Emily Johnson,Debit Card,Cancelled,743.94,889.91
+ORD0072,18-02-2024,East,Grocery,Rice,4,1191.28,4765.12,Ravi Verma,Net Banking,Cancelled,261.15,795.92
+ORD0073,11-05-2024,South,Clothing,T-Shirt,9,286.46,2578.14,John Doe,Cash on Delivery,Returned,726.24,246.57
+ORD0074,06-06-2024,East,Sports,Yoga Mat,9,189.97,1709.73,Ravi Verma,Cash on Delivery,Cancelled,71.46,197.4
+ORD0075,15-05-2024,North,Books,Magazine,2,808.91,1617.82,Neha Gupta,UPI,Cancelled,278.39,310.94
+ORD0076,17-03-2024,North,Beauty,Face Cream,4,297.4,1189.6,David Brown,Cash on Delivery,Returned,319.37,185.37
+ORD0077,09-07-2024,West,Home & Kitchen,Mixer,5,1276.59,6382.95,Amit Kumar,Credit Card,Delivered,1497.68,994.17
+ORD0078,15-07-2024,East,Sports,Running Shoes,7,882.43,6177.01,Amit Kumar,UPI,Cancelled,94.01,797.36
+ORD0079,14-02-2024,East,Sports,Yoga Mat,5,860.74,4303.7,Ravi Verma,Net Banking,Returned,1223.59,354.66
+ORD0080,30-04-2024,South,Toys,Doll,3,1664.41,4993.23,Ravi Verma,Cash on Delivery,In Transit,1282.78,888.64
+ORD0081,26-02-2024,South,Grocery,Rice,6,922.02,5532.12,Priya Sharma,Debit Card,Cancelled,421.23,1230.66
+ORD0082,05-05-2024,North,Grocery,Rice,9,1062.85,9565.65,Neha Gupta,UPI,Cancelled,1211.2,2054.03
+ORD0083,13-04-2024,East,Clothing,T-Shirt,6,1512.15,9072.9,Amit Kumar,Cash on Delivery,In Transit,1344.98,1314.2
+ORD0084,19-02-2024,West,Electronics,Smartwatch,6,918.57,5511.42,Emily Johnson,Credit Card,Delivered,729.43,1331.08
+ORD0085,13-06-2024,East,Books,Magazine,9,1842.28,16580.52,David Brown,UPI,Returned,2668.79,3638.16
+ORD0086,09-06-2024,South,Grocery,Cooking Oil,10,677.24,6772.4,John Doe,Cash on Delivery,Returned,1437.4,1585.13
+ORD0087,08-01-2024,North,Toys,Action Figure,5,141.75,708.75,Sara Ali,Net Banking,Cancelled,194.41,125.05
+ORD0088,02-01-2024,North,Electronics,Headphones,5,599.44,2997.2,John Doe,Credit Card,In Transit,873.76,406.77
+ORD0089,19-02-2024,North,Clothing,T-Shirt,10,992.58,9925.8,Priya Sharma,Credit Card,Cancelled,816.46,2297.58
+ORD0090,28-06-2024,South,Sports,Running Shoes,4,1765.02,7060.08,Priya Sharma,Debit Card,Returned,2113.24,1028.13
+ORD0091,05-03-2024,West,Books,Novel,4,678.92,2715.68,Priya Sharma,Credit Card,Returned,753.82,501.09
+ORD0092,04-07-2024,North,Sports,Running Shoes,9,683.78,6154.02,Amit Kumar,Debit Card,Cancelled,824.06,1305.77
+ORD0093,04-01-2024,East,Grocery,Spices,5,1518.5,7592.5,John Doe,Debit Card,Returned,700.57,1818.62
+ORD0094,18-04-2024,East,Grocery,Cooking Oil,1,739.61,739.61,Amit Kumar,Net Banking,Delivered,70.52,114.49
+ORD0095,20-06-2024,South,Beauty,Lipstick,1,664.65,664.65,Jane Smith,Debit Card,In Transit,27.93,95.49
+ORD0096,10-06-2024,North,Home & Kitchen,Vacuum Cleaner,1,362.83,362.83,Neha Gupta,Credit Card,Delivered,38.04,96.9
+ORD0097,12-07-2024,South,Beauty,Foundation,1,1607.98,1607.98,Neha Gupta,Debit Card,Returned,194.21,229.66
+ORD0098,09-04-2024,South,Clothing,Jeans,8,981.29,7850.32,Ravi Verma,Debit Card,Delivered,1291.53,1871.56
+ORD0099,01-04-2024,West,Toys,Doll,8,1206.26,9650.08,Sara Ali,UPI,Delivered,1553.18,2362.29
+ORD0100,30-01-2024,West,Electronics,Headphones,4,1132.76,4531.04,David Brown,Debit Card,Delivered,477.58,639.48
